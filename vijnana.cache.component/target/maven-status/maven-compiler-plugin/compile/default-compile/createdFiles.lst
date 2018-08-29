@@ -1,0 +1,10 @@
+vijnana/cache/component/factory/impl/CacheDstbdFctry.class
+vijnana/cache/component/entity/Mensaje.class
+vijnana/cache/component/ICacheComponent.class
+vijnana/cache/component/exception/VijnanaCacheException.class
+vijnana/cache/component/factory/impl/CacheLocalFctry.class
+vijnana/cache/component/entity/Configuracion.class
+vijnana/cache/component/impl/EjecutarImpl.class
+vijnana/cache/component/entity/AplicacionEjecucion.class
+vijnana/cache/component/factory/ICacheFctry.class
+vijnana/cache/component/util/ConexionHttpUtil.class

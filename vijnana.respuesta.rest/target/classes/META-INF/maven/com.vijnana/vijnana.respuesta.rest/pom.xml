@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.vijnana</groupId>
+	<artifactId>vijnana.respuesta.rest</artifactId>
+	<version>2.0.0.v</version>
+	<properties>
+		<java.version>1.6</java.version>
+		<spring.version>4.0.7.RELEASE</spring.version>
+		<jackson.version>2.9.3</jackson.version>
+		
+	</properties>
+	<dependencies>
+		<dependency>
+		<groupId>org.codehaus.jackson</groupId>
+		<artifactId>jackson-mapper-asl</artifactId>
+		<version>1.8.5</version>
+		</dependency>
+		<dependency>
+		    <groupId>com.google.code.gson</groupId>
+		    <artifactId>gson</artifactId>
+		    <version>2.6.2</version>
+		</dependency>
+		 <dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-annotations</artifactId>
+  			<version>${jackson.version}</version>
+		</dependency>
+	</dependencies>
+	
+	
+</project>

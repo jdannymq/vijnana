@@ -1,0 +1,5 @@
+vijnana/wsrest/client/IClientWsRest.class
+vijnana/wsrest/client/exception/VijnanaClientException.class
+vijnana/wsrest/client/impl/PropertiesCliente.class
+vijnana/wsrest/client/IClienteFilterWsRest.class
+vijnana/wsrest/client/impl/ClienteWsRest.class
